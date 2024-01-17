@@ -1,4 +1,4 @@
-# Workout-buddy
+# Workout Buddy
 Manage workouts using this app!
 
 This is an app built using the MERN stack, which uses a Nodejs backend and React frontend. You can add new workouts, delete workouts, etc.<br>
